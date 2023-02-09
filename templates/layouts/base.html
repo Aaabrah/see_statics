@@ -1,0 +1,49 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<!--   Tue, 07 Jan 2020 03:33:27 GMT -->
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
+    <title>Ecommerce Dashboard &mdash; CodiePie</title>
+
+    <!-- General CSS Files -->
+    <link rel="stylesheet" href="{% static 'assets/modules/bootstrap/css/bootstrap.min.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/modules/fontawesome/css/all.min.css' %}">
+
+    <!-- CSS Libraries -->
+    <link rel="stylesheet" href="{% static 'assets/modules/jqvmap/dist/jqvmap.min.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/modules/summernote/summernote-bs4.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/modules/owlcarousel2/dist/assets/owl.carousel.min.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/modules/owlcarousel2/dist/assets/owl.theme.default.min.css' %}">
+
+    <!-- Template CSS -->
+    <link rel="stylesheet" href="{% static 'assets/css/style.min.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/css/components.min.css' %}">
+
+</head>
+
+{% include 'layouts/inc/navbar.html' %}
+
+{% block script %}
+
+<!-- General JS Scripts -->
+<script src="{% static 'assets/bundles/lib.vendor.bundle.js' %}"></script>
+<script src="{% static 'js/CodiePie.js' %}"></script>
+
+<!-- JS Libraies -->
+<script src="{% static 'assets/modules/jquery.sparkline.min.js' %}"></script>
+<script src="{% static 'assets/modules/chart.min.js' %}"></script>
+<script src="{% static 'assets/modules/owlcarousel2/dist/owl.carousel.min.js' %}"></script>
+<script src="{% static 'assets/modules/summernote/summernote-bs4.js' %}"></script>
+<script src="{% static 'assets/modules/chocolat/dist/js/jquery.chocolat.min.js' %}"></script>
+
+<!-- Page Specific JS File -->
+<script src="{% static 'js/page/index.js' %}"></script>
+
+<!-- Template JS File -->
+<script src="{% static 'js/scripts.js' %}"></script>
+<script src="{% static 'js/custom.js' %}"></script>
+
+{% endblock %}

@@ -1,0 +1,294 @@
+{
+  "payload": {
+    "data": {
+      "id": 1000,
+      "title": "Крем-контур для век Bielita Chaga ProAge, против морщин, 20 мл",
+      "category": {
+        "id": 12888,
+        "title": "Палетки для контуринга",
+        "productAmount": 21,
+        "parent": {
+          "id": 11292,
+          "title": "Лицо",
+          "productAmount": 600,
+          "parent": {
+            "id": 10091,
+            "title": "Макияж",
+            "productAmount": 2105,
+            "parent": {
+              "id": 10012,
+              "title": "Красота и гигиена",
+              "productAmount": 9435,
+              "parent": null
+            }
+          }
+        }
+      },
+      "rating": 0.0,
+      "reviewsAmount": 0,
+      "ordersAmount": 2,
+      "rOrdersAmount": 2,
+      "totalAvailableAmount": 10,
+      "charityCommission": 0,
+      "description": "<p>Экстракт арктической чаги, липосомальный комплекс витаминов A,&nbsp;C,&nbsp;E,&nbsp;F&nbsp;обеспечивают эффект подтягивания и антивозрастное действие&nbsp;на кожу вокруг глаз, сокращение морщин, повышение эластичности и упругости кожи.</p><p class=\"ql-align-center\"><img src=\"https://images.uzum.uz/cddlbpjb3ho5lmur6ks0/original.jpg\"></p><p><br></p>",
+      "comments": [],
+      "attributes": [],
+      "tags": [],
+      "synonyms": [],
+      "photos": [
+        {
+          "photo": {
+            "800": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qig/original.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qig/t_product_low.jpg"
+            },
+            "720": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qig/original.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qig/t_product_low.jpg"
+            },
+            "480": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qig/t_product_540_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qig/t_product_540_low.jpg"
+            },
+            "240": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qig/t_product_240_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qig/t_product_240_low.jpg"
+            },
+            "80": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qig/t_product_80_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qig/t_product_80_low.jpg"
+            },
+            "24034": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qig/t_product_240_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qig/t_product_240_low.jpg"
+            },
+            "120": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qig/t_product_240_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qig/t_product_240_low.jpg"
+            },
+            "540": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qig/t_product_540_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qig/t_product_540_low.jpg"
+            },
+            "60": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qig/t_product_80_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qig/t_product_80_low.jpg"
+            }
+          },
+          "photoKey": "cbd7l64ff5b139c18qig",
+          "color": null,
+          "hasVerticalPhoto": false
+        },
+        {
+          "photo": {
+            "800": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qk0/original.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qk0/t_product_low.jpg"
+            },
+            "720": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qk0/original.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qk0/t_product_low.jpg"
+            },
+            "480": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qk0/t_product_540_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qk0/t_product_540_low.jpg"
+            },
+            "240": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qk0/t_product_240_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qk0/t_product_240_low.jpg"
+            },
+            "80": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qk0/t_product_80_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qk0/t_product_80_low.jpg"
+            },
+            "24034": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qk0/t_product_240_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qk0/t_product_240_low.jpg"
+            },
+            "120": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qk0/t_product_240_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qk0/t_product_240_low.jpg"
+            },
+            "540": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qk0/t_product_540_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qk0/t_product_540_low.jpg"
+            },
+            "60": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qk0/t_product_80_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qk0/t_product_80_low.jpg"
+            }
+          },
+          "photoKey": "cbd7l64ff5b139c18qk0",
+          "color": null,
+          "hasVerticalPhoto": false
+        },
+        {
+          "photo": {
+            "800": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qjg/original.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qjg/t_product_low.jpg"
+            },
+            "720": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qjg/original.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qjg/t_product_low.jpg"
+            },
+            "480": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qjg/t_product_540_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qjg/t_product_540_low.jpg"
+            },
+            "240": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qjg/t_product_240_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qjg/t_product_240_low.jpg"
+            },
+            "80": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qjg/t_product_80_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qjg/t_product_80_low.jpg"
+            },
+            "24034": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qjg/t_product_240_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qjg/t_product_240_low.jpg"
+            },
+            "120": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qjg/t_product_240_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qjg/t_product_240_low.jpg"
+            },
+            "540": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qjg/t_product_540_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qjg/t_product_540_low.jpg"
+            },
+            "60": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qjg/t_product_80_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qjg/t_product_80_low.jpg"
+            }
+          },
+          "photoKey": "cbd7l64ff5b139c18qjg",
+          "color": null,
+          "hasVerticalPhoto": false
+        },
+        {
+          "photo": {
+            "800": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qj0/original.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qj0/t_product_low.jpg"
+            },
+            "720": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qj0/original.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qj0/t_product_low.jpg"
+            },
+            "480": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qj0/t_product_540_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qj0/t_product_540_low.jpg"
+            },
+            "240": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qj0/t_product_240_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qj0/t_product_240_low.jpg"
+            },
+            "80": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qj0/t_product_80_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qj0/t_product_80_low.jpg"
+            },
+            "24034": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qj0/t_product_240_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qj0/t_product_240_low.jpg"
+            },
+            "120": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qj0/t_product_240_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qj0/t_product_240_low.jpg"
+            },
+            "540": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qj0/t_product_540_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qj0/t_product_540_low.jpg"
+            },
+            "60": {
+              "high": "https://images.umarket.uz/cbd7l64ff5b139c18qj0/t_product_80_high.jpg",
+              "low": "https://images.umarket.uz/cbd7l64ff5b139c18qj0/t_product_80_low.jpg"
+            }
+          },
+          "photoKey": "cbd7l64ff5b139c18qj0",
+          "color": null,
+          "hasVerticalPhoto": false
+        }
+      ],
+      "video": null,
+      "hasCircularPhotos": false,
+      "circularPhotosList": [],
+      "characteristics": [],
+      "productOptionDtos": [],
+      "skuList": [
+        {
+          "id": 1812,
+          "characteristics": [],
+          "availableAmount": 10,
+          "fullPrice": 66000,
+          "charityProfit": 0,
+          "purchasePrice": 54000,
+          "barcode": 4810151032296,
+          "address": null,
+          "offer": null,
+          "discountBadge": null,
+          "installment": null,
+          "productOptionDtos": [
+            {
+              "optionId": 1,
+              "text": "Рассрочка Uzum",
+              "type": "UZUM_INSTALLMENT",
+              "paymentInfo": "В рассрочку от 6 480 сум/мес",
+              "paymentPerMonth": 6480,
+              "period": 12,
+              "active": true
+            }
+          ],
+          "vat": {
+            "type": "VAT0",
+            "vatAmount": 0,
+            "price": 54000,
+            "vatRate": 0
+          },
+          "circularPhotosList": [],
+          "videoUrl": null,
+          "restriction": null
+        }
+      ],
+      "seller": {
+        "id": 78,
+        "title": "Косметика Белита-М",
+        "link": "kosmetikabelita-m",
+        "banner": null,
+        "avatar": null,
+        "description": "Оригинальная и сертифицированная косметика из Беларуси. Отличные косметические уходовые и декоративные средства люксового качества по приятной цене.",
+        "hasCharityProducts": false,
+        "registrationDate": 1656502483384,
+        "rating": 4.8,
+        "reviews": 114,
+        "orders": 2855,
+        "official": false,
+        "contacts": [],
+        "categories": [],
+        "currentCategory": null,
+        "filters": [],
+        "appliedFilters": [],
+        "priceFilter": null,
+        "totalProducts": 0,
+        "parents": [],
+        "products": [],
+        "sellerAccountId": 906,
+        "info": null
+      },
+      "topFeedback": null,
+      "isEco": false,
+      "isPerishable": false,
+      "hasVerticalPhoto": true,
+      "showKitty": false,
+      "bonusProduct": false,
+      "badges": [],
+      "volumeDiscount": null,
+      "favourite": false,
+      "adultCategory": false,
+      "colorPhotoPreview": false
+    },
+    "promotion": null
+  },
+  "timestamp": [
+    2023, 1, 26, 11, 2, 30, 31802000
+  ]
+}
